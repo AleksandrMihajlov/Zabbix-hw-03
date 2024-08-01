@@ -26,6 +26,7 @@
 ![alt text](https://github.com/AleksandrMihajlov/Zabbix-hw-03/blob/main/6.png)  
   
 **Задание7**  
+```python
 import sys
 import os
 import re
@@ -43,6 +44,7 @@ elif (sys.argv[1] == '2'): # Если ввод 2
     print(res) # Выводим в консоль время
 else: # Во всех остальных случаях
     print(f"unknown input: {sys.argv[1]}") # Выводим непонятый запрос в консоль  
+```
 
 ![alt text](https://github.com/AleksandrMihajlov/Zabbix-hw-03/blob/main/7.png)  
   
